@@ -5,7 +5,7 @@
 ## Guide
 
 ### GitHub Actions
-A minimal configuration might look like:
+A minimal configuration might look like::
 
 ```yml
 steps:
